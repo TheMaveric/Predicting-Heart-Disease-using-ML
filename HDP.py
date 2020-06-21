@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## <font size=5> <strong>Heart Disease Prediction By Shreekant Gosavi
+# ## <font size=5> <strong>Heart Disease Prediction
 #  
 
 # ## I. Importing essential libraries
