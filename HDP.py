@@ -660,6 +660,4 @@ plt.ylabel("Accuracy score")
 sns.barplot(algorithms,scores)
 
 
-# ### Hey arbaaz there random forest has good result as compare to other algorithms <br> <br>
 
-# 
